@@ -1,0 +1,21 @@
+# Collecte de données et API
+requests
+python-dotenv
+
+# Manipulation et analyse de données
+pandas
+numpy
+
+
+# Machine Learning
+scikit-learn
+imbalanced-learn
+xgboost
+joblib
+
+# Visualisation
+matplotlib
+seaborn
+
+# Environnement de travail
+ipykernel
